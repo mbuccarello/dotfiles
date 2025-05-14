@@ -1,0 +1,10 @@
+k9s:
+  skin:
+    background: default
+    text: white
+    highlight: blue
+    border: gray
+    header:
+      fgColor: white
+      bgColor: black
+      logoColor: blue
