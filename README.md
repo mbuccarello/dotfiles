@@ -174,4 +174,6 @@ Open Vim and ensure plugins are installed:
 
 ```bash
 vim +PlugInstall +qall
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
 ```
